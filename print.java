@@ -1,3 +1,4 @@
+imoport java.util.*;
 class myp
 {
   void main()
@@ -8,6 +9,10 @@ class myp
     int n;
     
     n = new Scanner(System.in).nextInt();
+    #Lets print n
+      
+    System.out.println(n);.
+    
   }
 }
 
